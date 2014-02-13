@@ -1,6 +1,6 @@
 ##Sublime Text 2 WordPress Package
 
-Sublime Text 2 WordPress Package is a collection of WordPress snippets and autocompletions for Sublime Text 2
+Sublime Text 2/3 WordPress Package is a collection of WordPress snippets and autocompletions for Sublime Text 2
 
 ### Features
 
